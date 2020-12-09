@@ -1,2 +1,2 @@
 # ERG-131-Project
-Binder link:https://mybinder.org/v2/gh/michael-quiroz/ERG-131-Project/604e9abe1ff8809e7cc79907b3f32b88cdfc1cdf
+Binder link:https://gesis.mybinder.org/binder/v2/gh/michael-quiroz/Energy-Price-Forecasting/5272893ce5b9a2cbf95efddaa16640adbaa4c2f9
